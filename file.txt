@@ -1,3 +1,8 @@
 baris satu
+<<<<<<< HEAD
 baris 2
 baris tiga
+=======
+baris dua
+baris 3
+>>>>>>> bugfix
